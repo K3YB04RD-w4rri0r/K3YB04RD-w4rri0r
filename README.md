@@ -2,7 +2,7 @@
 
 I'm a final-year AI student based in Paris.
 
-My background is in deep learning, but I fundamentally believe the next big revolution will happen in the physical world.
+My background is in deep learning, and I fundamentally believe the next big revolution will happen in the physical world.
 
 I'm particularly interested in building adaptable robots. In a few years, I'd love to be contributing to robots that can assist in places like hospitals, and to be able to look back and feel proud of having built something actually useful.
 
