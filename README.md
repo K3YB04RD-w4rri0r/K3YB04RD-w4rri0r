@@ -1,5 +1,3 @@
-<img src="koi/koi.gif" width="256" alt="My koi" />
-
 ### Hi, I'm François 🤗
 
 I'm a final-year AI student based in Paris.
@@ -8,7 +6,7 @@ My background is in deep learning, but I fundamentally believe the next big revo
 
 I'm particularly interested in building adaptable robots. In a few years, I'd love to be contributing to robots that can assist in places like hospitals, and to be able to look back and feel proud of having built something actually useful.
 
-I'm still finding my way into robotics, so most of what you'll find here comes from learning by building in my spare time. Yeah... turns out French unis make you take a lot of generalist courses.
+I'm still finding my way into robotics, so most of what you'll find here comes from learning by building in my spare time. Yeah... turns out French unis make you take a **lot** of generalist courses.
 
 ### Stuff I've built
 
@@ -26,8 +24,9 @@ Feel free to reach out! Always excited about building things with cracked people
 
 Outside of research and code, I run my school's AI club and used to fence competitively.
 
-📫 [francois.saintjean04@gmail.com](mailto:francois.saintjean04@gmail.com)
+📫 **[francois.saintjean04@gmail.com](mailto:francois.saintjean04@gmail.com)**
 
+<img src="koi/koi.gif" width="256" alt="My koi" />
 
 
 <!--
